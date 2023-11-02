@@ -19,10 +19,44 @@
 ## Задание 1.
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 
+```py
 print('hello world')
+```
+Результаты выполнения программы представлены на рисунке
+![Иллюстрация к проекту](https://github.com/criosstasis/Zadanie-1/blob/main/anaco.PNG)
 
 ## Задание 2.
 ### Написать программу Hello World на C# с запуском на Unity. 
 
+```py
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+
+public class NewBehaviourScript : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+       print("Hello world!");    
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+
+```
+Результаты выполнения программы представлены на рисунке
+
+![Иллюстрация к проекту](https://github.com/criosstasis/Zadanie-1/blob/main/unity.PNG)
+
 ## Задание 3.
 ### Оформить отчет в виде документации на github (markdown-разметка).
+
+## Выводы
+
+В данной работе я должен был установить программы Unity, Anaconda Navigator и Visual studio code, а также написать программу Hello world на Python и C#. 
