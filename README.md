@@ -59,4 +59,4 @@ public class NewBehaviourScript : MonoBehaviour
 
 ## Выводы
 
-В данной работе я должен был установить программы Unity, Anaconda Navigator и Visual studio code, а также написать программу Hello world на Python и C#. 
+В данной работе я должен был установить программы Unity, Anaconda Navigator и Visual studio code, а также написать программу Hello world на Python и C#. В результате я смог установить программы и написать код.
