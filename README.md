@@ -18,7 +18,9 @@
 
 ## Задание 1.
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
-jkhjk
+
+print('hello world')
+
 ## Задание 2.
 ### Написать программу Hello World на C# с запуском на Unity. 
 
